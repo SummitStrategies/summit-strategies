@@ -84,6 +84,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://summitstrategies.au",
   },
+  verification: {
+    google: "mrLuXyohwqliwFSNNQdhpaFpqKd3H7NE5q_Fxdlq_Zw",
+  },
 };
 
 export default function RootLayout({
